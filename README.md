@@ -8,13 +8,13 @@ Keywords: Brain Tumor Segmentation · Neural style transfer · nnU-Net
   alt="Alt text" width="75%">
 </div>
 
-`If you use this research and/or software, please consider citing the following:
-@software{Chepchirchir_Generative_Style_Transfer_2025,
-author = {Chepchirchir, Rancy and Sunday, Jill and Confidence, Raymond and Zhang, Dong and Chaudhry, Talha and Annazodo, Udunna and Muchungi, Kendi and Zou, Yujing},
-doi = {XXX},
-month = jan,
-title = {{Generative Style Transfer for MR Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa}},
-url = {https://github.com/BTSKifaru/SPARK_BTS_KIFARU.git},
-version = {1.0.0},
-year = {2025}
-}`
+If you use this research and/or software, please consider citing the following:
+`@software{Chepchirchir_Generative_Style_Transfer_2025,
+          author = {Chepchirchir, Rancy and Sunday, Jill and Confidence, Raymond and Zhang, Dong and Chaudhry, Talha and Annazodo, Udunna and Muchungi, Kendi and Zou, Yujing},
+          doi = {XXX},
+          month = jan,
+          title = {{Generative Style Transfer for MR Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa}},
+          url = {https://github.com/BTSKifaru/SPARK_BTS_KIFARU.git},
+          version = {1.0.0},
+          year = {2025}
+        }`
